@@ -1,0 +1,33 @@
+.parte {
+    background: #D4CAE2;
+}
+
+.parte1 {
+    background: #D4CAE2;
+}
+
+.parte2 {
+     border: solid;
+     border-width: 0.1em;
+     background: #D4CAE2;
+}
+
+.parte3 {
+    border: solid;
+    border-width: 0.1em;
+    background: #D4CAE2;
+
+}
+
+.parte4 {
+    border: solid;
+    border-width: 0.1em;
+    background: #D4CAE2;
+}
+span {
+    color: red;
+}
+
+img {
+    width: 400px;
+}
